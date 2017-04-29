@@ -20,7 +20,7 @@ gulp.task('build', ['sass', 'pug', 'js', 'images']);
 // gulp-connect
 gulp.task('server', function() {
   connect.server({
-    root: '',
+    root: 'dist',
     livereload: true,
   });
 });
