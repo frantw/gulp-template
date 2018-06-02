@@ -11,15 +11,21 @@ This is a gulp template using for web development.
 
 #### Folder Structure
 ```
-|- src/    #Source
-    |- images/
-    |- index.js
-    |- style.sass
+|- src/                 #Source
+    |- static/
+        |- js/
+            |- index.js
+        |- sass/
+            |- style.sass
+        |- images/
     |- index.pug
-|- dist/    #Destination
-    |- images/
-    |- index.js
-    |- style.css
+|- docs/                #Destination
+    |- static/
+        |- js/
+            |- index.js
+        |- css/
+            |- style.css
+        |- images/
     |- index.html
 |- gulpfile.js
 |- package.json
