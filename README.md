@@ -34,4 +34,4 @@ This is a gulp template using for web development.
 
 #### Get more details
 
-[http://blog.weisite.com.tw/工具分享/Gulp建立自己的自動化程序/](http://blog.weisite.com.tw/%E5%B7%A5%E5%85%B7%E5%88%86%E4%BA%AB/Gulp%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84%E8%87%AA%E5%8B%95%E5%8C%96%E7%A8%8B%E5%BA%8F/)
+[Gulp 建立自己的自動化程序 - 學海無涯，回頭是岸](https://blog.weitw.net/posts/c606cc8a/)
